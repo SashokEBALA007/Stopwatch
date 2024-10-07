@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
     private Handler handler = new Handler();
     private long startTime = 0L;
-    private long elapsedTime = 0L;
+    private long elapsedTime = 0L; //dsdsd
 
     private boolean isRunning = false;
 
